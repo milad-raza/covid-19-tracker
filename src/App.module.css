@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+.container{
+    background-color: #fafafa;
+}
+.logo{
+  position: absolute !important;
+  width: 210px;
+  height: 76px;
+  object-fit: contain;
+}
+@media only screen and (max-width: 770px) {
+  .logo{
+    width: 110px
+  }
+}

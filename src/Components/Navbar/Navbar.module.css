@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #767cd8;
+}
+.formControl {
+  width: 30%;
+  margin: 24px !important;
+  color: #ffffff !important;
+  background-color: #ffffff;
+  border-radius: 2px;
+}
